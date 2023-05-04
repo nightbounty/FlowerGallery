@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/FlowerGallery/static/css/main.e13c3163.css",
+    "main.js": "/FlowerGallery/static/js/main.57956cd7.js",
+    "static/js/787.d7e7aaf3.chunk.js": "/FlowerGallery/static/js/787.d7e7aaf3.chunk.js",
+    "static/media/jardin.jpeg": "/FlowerGallery/static/media/jardin.932a323ac1e34130ad5e.jpeg",
+    "static/media/aster1.png": "/FlowerGallery/static/media/aster1.3266eaad433e12bdae2c.png",
+    "static/media/aster2.png": "/FlowerGallery/static/media/aster2.f74b86de425ccdac4132.png",
+    "static/media/pivoineblanc.png": "/FlowerGallery/static/media/pivoineblanc.fa862a25f0ccd6d40175.png",
+    "static/media/rosiers.png": "/FlowerGallery/static/media/rosiers.1453323f5e449fb5020c.png",
+    "static/media/heme4.jpeg": "/FlowerGallery/static/media/heme4.8c221979f889da770a20.jpeg",
+    "static/media/Hémérocalle.png": "/FlowerGallery/static/media/Hémérocalle.ae6398e1aec3b4b92b65.png",
+    "static/media/phlox.png": "/FlowerGallery/static/media/phlox.197e0801157562af1210.png",
+    "static/media/pivoinerose.png": "/FlowerGallery/static/media/pivoinerose.b8c70a1840a3621508dd.png",
+    "static/media/rosiersjaune.png": "/FlowerGallery/static/media/rosiersjaune.594947fb7271ad2a8ad8.png",
+    "static/media/rose11.jpg": "/FlowerGallery/static/media/rose11.1a30f0b8fe1d90d93ff9.jpg",
+    "static/media/rose3.jpg": "/FlowerGallery/static/media/rose3.c6603b158e1b87dd18f9.jpg",
+    "static/media/rose12.jpg": "/FlowerGallery/static/media/rose12.434fecad3c90e74cc654.jpg",
+    "static/media/rose1.jpg": "/FlowerGallery/static/media/rose1.a5330277d81c6cbf892e.jpg",
+    "static/media/rose10.jpg": "/FlowerGallery/static/media/rose10.bfb1077b767e4f0ca792.jpg",
+    "static/media/rose8.jpg": "/FlowerGallery/static/media/rose8.d3f1c27adfe9a2de13bc.jpg",
+    "static/media/rose9.jpg": "/FlowerGallery/static/media/rose9.b6a7cff36c0c9e373d1c.jpg",
+    "static/media/heme1.jpg": "/FlowerGallery/static/media/heme1.ee2deace3fd4cefb0056.jpg",
+    "static/media/heme2.jpg": "/FlowerGallery/static/media/heme2.3e33158ccc93c30fbe3e.jpg",
+    "static/media/rose5.jpg": "/FlowerGallery/static/media/rose5.b0acac20bb63b12b92e9.jpg",
+    "static/media/rose4.jpg": "/FlowerGallery/static/media/rose4.59282be6a8101c6c8763.jpg",
+    "static/media/rose6.jpg": "/FlowerGallery/static/media/rose6.670f97550509ed6307ba.jpg",
+    "static/media/rose2.jpg": "/FlowerGallery/static/media/rose2.f4e9a79c252cec0a79a4.jpg",
+    "static/media/rose7.jpg": "/FlowerGallery/static/media/rose7.98b082eb51bb6c212dc5.jpg",
+    "index.html": "/FlowerGallery/index.html",
+    "main.e13c3163.css.map": "/FlowerGallery/static/css/main.e13c3163.css.map",
+    "main.57956cd7.js.map": "/FlowerGallery/static/js/main.57956cd7.js.map",
+    "787.d7e7aaf3.chunk.js.map": "/FlowerGallery/static/js/787.d7e7aaf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e13c3163.css",
+    "static/js/main.57956cd7.js"
+  ]
+}
