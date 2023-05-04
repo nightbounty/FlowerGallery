@@ -5,6 +5,7 @@ import"./App.css";
 import Gallery from './Gallery';
 import Extra from './Hemerocallis';
 import Hemerocallis from './Hemerocallis';
+import Rose from './Rose';
 
 
 function App() {
@@ -17,6 +18,8 @@ function App() {
       <Gallery></Gallery>
       <h1 id = "title1">Hemerocallis</h1>
       <Hemerocallis />
+      <h1 id = "title1">Rose</h1>
+      <Rose />
     </>
 
   );  
