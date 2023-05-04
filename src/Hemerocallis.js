@@ -8,6 +8,7 @@ import heme1 from './img/Flowers/hemerocallis/heme1.jpg'
 import heme2 from './img/Flowers/hemerocallis/heme2.jpg'
 import heme3 from './img/Flowers/hemerocallis/heme3.jpeg'
 
+import heme4 from './img/Flowers/hemerocallis/heme4.jpeg'
 
 
 
@@ -24,8 +25,8 @@ const Hemerocallis = () => {
             imgSrc: heme2,
         },
         {
-            id:3,
-            imgSrc: heme3
+            id:4,
+            imgSrc: heme4,
         }    
 
     ]
